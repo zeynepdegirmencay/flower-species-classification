@@ -11,3 +11,7 @@ Pandas
 
 ## Dataset 
 Iris Dataset
+
+## About
+
+This project was developed as part of a university course.
